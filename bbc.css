@@ -1,0 +1,333 @@
+	body{
+				
+				margin:0;
+				padding:0;
+				font-family:Helvetica,Arial,sans-serif;
+			}
+			
+			#topbar{
+				
+				width:1000px;
+				
+				margin:0 auto;
+				height:35px;
+				
+				
+			}
+			
+			#logo{
+			
+				
+				margin-top:8px;
+				margin-right:8px;
+				width:85px;
+				float:left;
+			}
+			
+			.topbar-sec{
+			
+				margin:0;
+				padding:0;
+				border-left:2px #CCCCCC solid;
+				height:40px;
+				float:left;
+			
+			}
+			
+			#sign-img{
+				height:25px;
+				margin-top:6px;
+				margin-left:9px;
+				float:left;
+			}
+			
+			#sign-text{
+			
+				font-weight:bold;
+				font-size:90%;
+				position:relative;
+				top:11px;
+				padding:20px;
+			}
+			
+			#wline{
+				
+				float:left;
+				height:40px;
+			}
+			
+			#bel{
+			
+				height:22px;
+				margin:8px 10px 0 8px;
+			}
+			
+			#divbell{
+			
+				float:left;
+			}
+			
+			.topbar-menu{
+			
+				font-weight:bold;
+				font-size:90%;
+				padding:14px 15px;
+				height:12px;
+				
+			}
+			
+			#da-img{
+			
+				width:17px;
+				margin-left:6px;
+			}
+			a{
+			
+				text-decoration:none;
+				color:#1D1D1B;
+			}
+			
+			#searchbox{
+					
+				background-color:#E4E4E4;
+				border:none;
+				margin:10px 0px;
+				font-weight:bold;
+				padding:5px;
+				float:left;
+				}
+				
+			#magg{
+				height:25px;
+				margin:10px 0px;
+				
+			}
+			
+			.clr{
+				clear:both;
+			
+			}
+			
+			#menu-bar-con{
+			background-color:#BB1919;
+			width:100%;
+			height:70px;
+			border:1px #884545 solid;
+			
+			}
+			
+			#menu-bar{
+			
+			width:1000px;
+			margin:0 auto;
+			}
+			
+			h1{
+				padding:0;
+				margin:0;
+				color:white;
+				font-size:45px;
+				font-weight:normal;
+				
+				padding:6px;
+				float:left;
+			}
+			
+			#local-news{
+				float:right;
+				border:1px #A91717 solid;
+				width:190px;
+				
+				margin-top:8px;
+				}
+			
+			#local-news a{
+			
+				color:white;
+				text-decoration:none;
+				font-size:20px;
+				
+			}
+			#local-news a:hover{
+				
+				text-decoration:underline;
+				
+			}
+			
+			#loc{
+			
+				height:22px;
+				
+			}
+			
+			#menu2-con{
+			
+				background-color:#A91717;
+				width:100%;
+				margin:0;
+				padding:0;
+			}
+			
+			#menu2{
+			
+				width:1000px;
+				margin:0 auto;
+				height:50px;
+			
+			}
+			
+			#menu2 a{
+				color:white;
+				text-decoration:none;
+				position:relative;
+				top:10px;
+				padding:0 10px;
+				border-right:1px solid #BB4545;
+				font-size:13px;
+				font-weight:bold;
+			}
+			#menu2 a:hover{
+			
+				text-decoration:underline;
+			}
+			
+			#downa{
+				position:relative;
+				top:5px;
+				left:1px;
+				width:14px;
+				
+			}
+			
+			.no-border{
+				
+				border:none !important;
+				
+			}
+			
+			#page-con{
+			
+				width:1000px;
+				margin:0 auto;
+			
+			}
+			
+			h2{
+				font-weight:bold;
+				position:relative;
+				top:-12px;
+				font-size:20px;
+				border-bottom:2px solid #A91717;
+				width:110px;
+			}
+			
+			h3 a{
+			
+				color:#5a5a5a;
+				font-size:35px;
+				text-decoration:none;
+			
+			}
+			h3 a:hover{
+				color:#1167A8;
+			
+			}
+			
+			#summary{
+				color:#5a5a5a;
+				width:290px;
+				float:left;
+			}
+			
+			.clock{
+				width:19px;
+				position:relative;
+				top:5px;
+			}
+			#topic-link{
+				text-decoration:none;
+				
+				font-size:14px;
+				color:#A61B1B;
+				border-left:1px #5a5a5a solid;
+				margin-left:8px;
+				padding-left:6px;
+			}
+			#topic-link:hover{
+				color:#1167A8;
+			
+			}
+			#summary a:hover{
+			
+				color:#1167A8;
+			}
+			
+			#article-con{
+					
+				float:left;
+				width:650px;
+				border-right:1px #5a5a5a solid;
+				padding:2px;
+				
+			}
+			
+			#asda{
+				float:left;
+				margin-left:2px;
+				width:300px;
+				height:220px;
+			}
+			
+			#art-hr{
+				border-top:1px #A61B1B solid;
+				width:50px;
+				
+				
+			}
+			
+			.art-link{
+				color:black;
+				text-decoration:none;
+				color:#404040;
+			}
+			
+			#watch-listen{
+				margin-left:5px;
+				width:280px;
+				float:right;
+			}
+			h4{
+				font-weight:normal;
+				font-size:21px;
+			
+			}
+			
+			.art-sideimg{
+				float:left;
+				width:85px;
+				margin-right:0.5px;
+				
+			}
+			.art-sidelink{
+				color:black;
+				font-weight:bold;
+				text-decoration:none;
+				font-size:15px;
+				
+				
+			}
+			.art-sidelink:hover{
+				color:#1167A8;
+			
+			}
+			.date{
+				padding:1px;
+				font-size:14px;
+			}
+			
+			.side-art{
+				
+				float:left;
+				width:190px;
+				
+			}
